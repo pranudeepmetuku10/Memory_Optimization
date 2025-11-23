@@ -4,7 +4,7 @@ A comprehensive guide to optimizing pandas DataFrame memory usage with practical
 
 ##  Overview
 
-This project demonstrates how to significantly reduce memory consumption when working with large datasets in pandas. By applying strategic optimization techniques, we achieved a **94.45% reduction** in memory usage on a customer dataset without sacrificing data integrity or analytical capabilities.
+This notebook demonstrates how to significantly reduce memory consumption when working with large datasets in pandas. By applying strategic optimization techniques, we achieved a **94.45% reduction** in memory usage on a customer dataset without sacrificing data integrity or analytical capabilities.
 
 ##  Project Goals
 
